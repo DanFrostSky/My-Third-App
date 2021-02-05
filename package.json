@@ -1,0 +1,16 @@
+{
+  "name": "mythirdapp",
+  "version": "1.0.0",
+  "description": "Third",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dan Frost",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.6.3"
+  }
+}
